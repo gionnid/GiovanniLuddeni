@@ -1,4 +1,4 @@
-### Hi floks, I'm Giovanni
+### Hi folks, I'm Giovanni
 
 I'm CTO @ [Eoliann](eoliann.com)
 
